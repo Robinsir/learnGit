@@ -3,3 +3,6 @@ Git is free software.
 
 
 修改我们的文本文件
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
