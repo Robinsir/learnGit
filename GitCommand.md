@@ -5,7 +5,7 @@
 git config --global user.name 'xxx'  #配置用户名
 git config --global user.email 'xxx'  #配置email
 
-###二、常用命令
+### 二、常用命令
 git init
 git add <hello.txt>  # 把所有要提交的文件修改放到暂存区
 git commit -m 'add a file' # 把暂存区的所有内容提交到当前分支
